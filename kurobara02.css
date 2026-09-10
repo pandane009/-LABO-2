@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "KurobaraTest";
+  src: url("https://cdn.jsdelivr.net/gh/pandane009/panda-font-test@main/kurobara-gothic-heavy.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.test-box {
+  border: 8px solid red;
+}
